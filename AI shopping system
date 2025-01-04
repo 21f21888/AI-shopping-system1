@@ -1,5 +1,5 @@
 # Product ratings categorization
- = [
+products = [
     {"name": "Laptop", "ratings": [4, 5, 3, 4]},
     {"name": "Smartphone", "ratings": [5, 5, 4]},
     {"name": "Tablet", "ratings": [3, 2, 3, 2]},
